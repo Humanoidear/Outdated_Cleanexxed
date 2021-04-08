@@ -1,2 +1,2 @@
 # Cleanexxed
-Icon theme for Dolphin Emulator.
+#2 Icon theme for Dolphin Emulator.
