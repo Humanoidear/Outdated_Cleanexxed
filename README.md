@@ -1,9 +1,12 @@
 # *Cleanexxed*
+![Cleanexxed logo](https://cdn.discordapp.com/attachments/623088732932931594/829690138090143764/IMG-9750.jpg)
+
 ## Icon theme for Dolphin Emulator.
 
 ### What is Cleanexxed?
 Cleanexxed is an icon theme for the Dolphin Emulator that aims to keep the user interface easy to understand, whilst adapting the icons to make them simpler, to suit the modern times.
-
+<br/>
+![Cleanexxed icons](https://cdn.discordapp.com/attachments/623088732932931594/829693868298600448/IMG_9752.jpg)
 <br/>
 
 ### System Requirements  <br/>
@@ -31,7 +34,19 @@ Installation is simple, here's how it's done: <br/>
 - Head over to Sys -> Themes and move the folder/s inside it. 
 - Restart Dolphin (if it was already open) for it to recognize the fancy new themes you just copied.
 
-### How to change the theme:
+<br/>
+
+###### (Linux)
+Installation is not as straightforward, but its still pretty simple, here's how it's done: <br/> 
+- Download the code from [my GitHub page](https://github.com/Humanoidear/Cleanexxed) by clicking Code -> Download ZIP.
+- Extract it using any compression software you got lying aroind (WinRAR, 7zip, the file explorer itself...).
+- Locate the Cleanexxed/ Cleanexxed Lite folder (depending on which color theme you want to use).
+- Navigate to the following location: usr -> share -> games -> dolphin-emu.
+- Head over to Sys -> Themes and move the folder/s inside it. 
+- Restart Dolphin (if it was already open) for it to recognize the fancy new themes you just copied.
+
+### How to change the theme: <br/>
+###### (Windows and Linux)
 Just in case anyone doesn't know how to do it, here's how you can changw the theme: <br/>
 - Open Dolphin (duh.)
 - Locate the "Options" tab on the menu bar (the one on the top) and click on it.
@@ -39,3 +54,11 @@ Just in case anyone doesn't know how to do it, here's how you can changw the the
 - On the new menu that just popped up, head over to the "Interface" tab and click the slider menu next to "Theme" (the bar).
 - If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and have fun ^^.
 
+<br/>
+
+###### (MacOS)
+(The MacOS version does not have the menu bar)
+- Open Dolphin
+- Locate the "Config" button on the top bar and click on it.
+- On the new menu that just popped up, head over to the "Interface" tab and click the slider menu next to "Theme" (the bar).
+- If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and have fun ^^.
