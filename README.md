@@ -1,4 +1,4 @@
-# *Cleanexxed*
+
 ![Cleanexxed logo](https://cdn.discordapp.com/attachments/623088732932931594/829690138090143764/IMG-9750.jpg)
 
 ## Icon theme for Dolphin Emulator.
