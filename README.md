@@ -22,7 +22,9 @@ Cleanexxed is an icon theme for the Dolphin Emulator that aims to keep the user 
     - A modern CPU (3 GHz and Dual Core, not older than 2008) is highly recommended.
 - Graphics
     - A reasonably modern graphics card (Direct3D 11.1 / OpenGL 3.3).
-    - A graphics card that supports Direct3D 11.1 / OpenGL 4.4 is recommended.
+    - A graphics card that supports Direct3D 11.1 / OpenGL 4.4 is recommended. <br/><br/>
+
+![Cleanexxed icon: Before and after](https://cdn.discordapp.com/attachments/623088732932931594/829702218680107018/IMG_9753.jpg)
 
 ### How to install: <br/>
 ###### (Windows)
@@ -62,3 +64,7 @@ Just in case anyone doesn't know how to do it, here's how you can changw the the
 - Locate the "Config" button on the top bar and click on it.
 - On the new menu that just popped up, head over to the "Interface" tab and click the slider menu next to "Theme" (the bar).
 - If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and have fun ^^.
+
+<br/>
+
+# That's all on my part... Now go have fun!
