@@ -4,6 +4,7 @@
 ## Icon theme for Dolphin Emulator.
 
 ### What is Cleanexxed?
+###### Eyebleach, maybe
 Cleanexxed is an icon theme for the Dolphin Emulator that aims to keep the user interface easy to understand, whilst adapting the icons to make them simpler, to suit the modern times.
 <br/>
 ![Cleanexxed icons](https://cdn.discordapp.com/attachments/623088732932931594/829693868298600448/IMG_9752.jpg)
