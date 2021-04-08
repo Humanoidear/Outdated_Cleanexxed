@@ -21,7 +21,8 @@ Cleanexxed is an icon theme for the Dolphin Emulator that aims to keep the user 
     - A reasonably modern graphics card (Direct3D 11.1 / OpenGL 3.3).
     - A graphics card that supports Direct3D 11.1 / OpenGL 4.4 is recommended.
 
-### How to install:
+### How to install: <br/>
+###### (Windows)
 Installation is simple, here's how it's done: <br/> 
 - Download the code from [my GitHub page](https://github.com/Humanoidear/Cleanexxed) by clicking Code -> Download ZIP.
 - Extract it using the windows explorer or any software you got lying aroind (WinRAR, 7zip...).
