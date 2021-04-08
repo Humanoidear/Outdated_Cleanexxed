@@ -54,7 +54,7 @@ Just in case anyone doesn't know how to do it, here's how you can changw the the
 - Locate the "Options" tab on the menu bar (the one on the top) and click on it.
 - Select "Configuration".
 - On the new menu that just popped up, head over to the "Interface" tab and click the slider menu next to "Theme" (the bar).
-- If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and have fun ^^.
+- If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and let your eyes enjoy the pleasure of a new theme for Dolphin ^^.
 
 <br/>
 
@@ -63,7 +63,7 @@ Just in case anyone doesn't know how to do it, here's how you can changw the the
 - Open Dolphin
 - Locate the "Config" button on the top bar and click on it.
 - On the new menu that just popped up, head over to the "Interface" tab and click the slider menu next to "Theme" (the bar).
-- If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and have fun ^^.
+- If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and you'll have a brand-spanking new theme to gaze at for hours... or at least until you decide what to play ^^.
 
 <br/>
 
