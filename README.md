@@ -46,6 +46,8 @@ Installation is not as straightforward, but its still pretty simple, here's how 
 - Head over to Sys -> Themes and move the folder/s inside it. 
 - Restart Dolphin (if it was already open) for it to recognize the fancy new themes you just copied.
 
+![Cleanexxed icons Lite](https://cdn.discordapp.com/attachments/623088732932931594/829709915382874213/IMG_9755.jpg)
+
 ### How to change the theme: <br/>
 ###### (Windows and Linux)
 Just in case anyone doesn't know how to do it, here's how you can change the theme: <br/>
