@@ -25,6 +25,11 @@ Cleanexxed is an icon theme for the Dolphin Emulator that aims to keep the user 
 
 ![Cleanexxed icon: Before and after](https://cdn.discordapp.com/attachments/623088732932931594/829702218680107018/IMG_9753.jpg)
 
+### Relevant info: <br/>
+The regular Cleanexxed folder contains the dark icons whilst the Cleanexxed Lite folder contains the light colored ones (mainly used if your Dolphin window is in Dark Mode).
+
+<br/>
+
 ### How to install: <br/>
 ###### (Windows)
 Installation is simple, here's how it's done: <br/> 
@@ -67,5 +72,8 @@ Just in case anyone doesn't know how to do it, here's how you can change the the
 - If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and you'll have a brand-spanking new theme to gaze at for hours... or at least until you decide what to play ^^.
 
 <br/>
+
+## What's to come:
+I'm planning on implementing different color variants (Mainly red and blue, maybe something else to celebrate events), aswell as changing the resolution for the 2x and 4x variants of the icons (which are currently all at 4x because of my lazyness)
 
 # That's all on my part... Now go have fun!
