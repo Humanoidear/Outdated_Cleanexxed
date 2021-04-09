@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+![Cleanexxed logo](https://cdn.discordapp.com/attachments/623088732932931594/829690138090143764/IMG-9750.jpg)
 
-You can use the [editor on GitHub](https://github.com/Humanoidear/Cleanexxed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Icon theme for Dolphin Emulator.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Cleanexxed?
+###### (Eyebleach, maybe)
+Cleanexxed is an icon theme for the Dolphin Emulator that aims to keep the user interface easy to understand, whilst adapting the icons to make them simpler, to suit the modern times.
+<br/>
+![Cleanexxed icons](https://cdn.discordapp.com/attachments/623088732932931594/829693868298600448/IMG_9752.jpg)
+<br/>
 
-### Markdown
+### System Requirements  <br/>
+###### (Same as regular ol' Dolphin)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- OS
+    - Windows (7 SP1 or higher).
+    - Linux.
+    - macOS (10.12 Sierra or higher).
+    - Unix-like systems other than Linux are not officially supported but might work.
+- Processor
+    - A CPU with SSE2 support.
+    - A modern CPU (3 GHz and Dual Core, not older than 2008) is highly recommended.
+- Graphics
+    - A reasonably modern graphics card (Direct3D 11.1 / OpenGL 3.3).
+    - A graphics card that supports Direct3D 11.1 / OpenGL 4.4 is recommended. <br/><br/>
 
-```markdown
-Syntax highlighted code block
+![Cleanexxed icon: Before and after](https://cdn.discordapp.com/attachments/623088732932931594/829702218680107018/IMG_9753.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+### Relevant info: <br/>
+The regular Cleanexxed folder contains the dark icons whilst the Cleanexxed Lite folder contains the light colored ones (mainly used if your Dolphin window is in Dark Mode).
 
-- Bulleted
-- List
+<br/>
 
-1. Numbered
-2. List
+### How to install: <br/>
+###### (Windows)
+Installation is simple, here's how it's done: <br/> 
+- Download the code from [my GitHub page](https://github.com/Humanoidear/Cleanexxed) by clicking Code -> Download ZIP.
+- Extract it using the windows explorer or any software you got lying around (WinRAR, 7zip...).
+- Locate the Cleanexxed/ Cleanexxed Lite folder (depending on which color theme you want to use).
+- Navigate to the location that contains your dolphin executable (dolphin.exe).
+- Head over to Sys -> Themes and move the folder/s inside it. 
+- Restart Dolphin (if it was already open) for it to recognize the fancy new themes you just copied.
 
-**Bold** and _Italic_ and `Code` text
+<br/>
 
-[Link](url) and ![Image](src)
-```
+###### (Linux)
+Installation is not as straightforward, but its still pretty simple, here's how it's done: <br/> 
+- Download the code from [my GitHub page](https://github.com/Humanoidear/Cleanexxed) by clicking Code -> Download ZIP.
+- Extract it using any compression software you got lying around (WinRAR, 7zip, the file explorer itself...).
+- Locate the Cleanexxed/ Cleanexxed Lite folder (depending on which color theme you want to use).
+- Navigate to the following location: usr -> share -> games -> dolphin-emu.
+- Head over to Sys -> Themes and move the folder/s inside it. 
+- Restart Dolphin (if it was already open) for it to recognize the fancy new themes you just copied.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Cleanexxed icons Lite](https://cdn.discordapp.com/attachments/623088732932931594/829709915382874213/IMG_9755.jpg)
 
-### Jekyll Themes
+### How to change the theme: <br/>
+###### (Windows and Linux)
+Just in case anyone doesn't know how to do it, here's how you can change the theme: <br/>
+- Open Dolphin (duh.)
+- Locate the "Options" tab on the menu bar (the one on the top) and click on it.
+- Select "Configuration".
+- On the new menu that just popped up, head over to the "Interface" tab and click the slider menu next to "Theme" (the bar).
+- If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and let your eyes enjoy the pleasure of a new theme for Dolphin ^^.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Humanoidear/Cleanexxed/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br/>
 
-### Support or Contact
+###### (MacOS)
+(The MacOS version does not have the menu bar)
+- Open Dolphin
+- Locate the "Config" button on the top bar and click on it.
+- On the new menu that just popped up, head over to the "Interface" tab and click the slider menu next to "Theme" (the bar).
+- If everything on the previous guide was done correctly, you should be able to see your new theme/s there, now click it, and you'll have a brand-spanking new theme to gaze at for hours... or at least until you decide what to play ^^.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br/>
+
+## What's to come:
+I'm planning on implementing different color variants (Mainly red and blue, maybe something else to celebrate events), aswell as changing the resolution for the 2x and 4x variants of the icons (which are currently all at 4x because of my lazyness)
+
+# That's all on my part... Now go have fun!
